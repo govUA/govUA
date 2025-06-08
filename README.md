@@ -1,10 +1,10 @@
 <div>
     <div>
         <p align="center">
-            <img src="https://komarev.com/ghpvc/?username=govua&label=Profile%20views&color=0e75b6&style=flat"
-                 alt="govua"/>
-            <img src="https://img.shields.io/badge/ITBA-27-blue"/>
-            <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/Kyiv-003863?style=for-the-badge&logo=location&logoColor=white"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/Zmiiv-003863?style=for-the-badge&logo=home&logoColor=white"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/ITBA27-003863?style=for-the-badge&logo=student&logoColor=white"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/Windows-003863?logo=windows11&logoColor=fff&style=for-the-badge"/>
         </p>
     </div>
     <div>
