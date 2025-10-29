@@ -23,7 +23,7 @@
     </div>
     <div style="text-align: center">
         <div style="display: inline-block; text-align: left">
-            <p align="center">🔭 I’m currently working on **something big**</p>
+            <p align="center">🔭 I’m currently working on something <b>big</b></p>
             <p align="center">🌱 I’m currently learning</p>
             <p align="center">👯 I’m looking to collaborate on <a href="https://ihor-kotliar.itch.io/">itch.io</a></p>
             <p align="center">🤔 I’m looking for help with <a href="https://linkedin.com/in/ihor-kotliar">employment</a></p>
