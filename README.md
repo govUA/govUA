@@ -15,7 +15,7 @@
     </div>
     <div>
         <p align="center">
-            <a href="https://link.clashroyale.com/invite/friend/en?tag=20YLQPQ9GR&token=b98zdm4g&platform=android" target="blank">
+            <a href="#" target="blank">
                 <img src="https://i.pinimg.com/736x/92/f2/e4/92f2e4543a80430161528de728dfbccb.jpg" alt="house" height="30%"
                      width="30%"/>
             </a>
@@ -23,8 +23,8 @@
     </div>
     <div style="text-align: center">
         <div style="display: inline-block; text-align: left">
-            <p align="center">🔭 I’m currently working on <a href="https://github.com/SEBA-Course-Projects-2025/MarketplaceAPI_VendorUI">Marketplace API Vendor UI</a></p>
-            <p align="center">🌱 I’m currently learning <a href="https://ua.udemy.com/course/arduino-for-beginners-complete-course">Arduino</a></p>
+            <p align="center">🔭 I’m currently working on **something big**</p>
+            <p align="center">🌱 I’m currently learning</p>
             <p align="center">👯 I’m looking to collaborate on <a href="https://ihor-kotliar.itch.io/">itch.io</a></p>
             <p align="center">🤔 I’m looking for help with <a href="https://linkedin.com/in/ihor-kotliar">employment</a></p>
         </div>
