@@ -15,15 +15,15 @@
     </div>
     <div>
         <p align="center">
-            <a href="#" target="blank">
-                <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRlcGMzdDR5eW1rM3M0ajQ1bWNiN2R2OXF5djlkbXp5cTUzaXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0vN8GZP9jJJZdONGKN/giphy.gif" alt="house" height="30%"
+            <a href="https://www.youtube.com/watch?v=m4C5szXepvo" target="blank">
+                <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRlcGMzdDR5eW1rM3M0ajQ1bWNiN2R2OXF5djlkbXp5cTUzaXViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0vN8GZP9jJJZdONGKN/giphy.gif" alt="kasia tetowa" height="30%"
                      width="30%"/>
             </a>
         </p>
     </div>
     <div style="text-align: center">
         <div style="display: inline-block; text-align: left">
-            <p align="center">🔭 I’m currently working on something <b>big</b></p>
+            <p align="center">🔭 I’m currently working on something <b>BIG</b></p>
             <p align="center">🌱 I’m currently learning</p>
             <p align="center">👯 I’m looking to collaborate on <a href="https://ihor-kotliar.itch.io/">itch.io</a></p>
             <p align="center">🤔 I’m looking for help with <a href="https://linkedin.com/in/ihor-kotliar">employment</a></p>
