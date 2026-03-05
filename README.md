@@ -22,11 +22,12 @@
         </p>
     </div>
     <div style="text-align: center">
-        <div style="display: inline-block; text-align: left">
-            <p align="center">🔭 I’m currently working on something <b>BIG</b></p>
-            <p align="center">🌱 I’m currently learning</p>
-            <p align="center">👯 I’m looking to collaborate on <a href="https://ihor-kotliar.itch.io/">itch.io</a></p>
-            <p align="center">🤔 I’m looking for help with <a href="https://linkedin.com/in/ihor-kotliar">employment</a></p>
+        <div>
+            <p align="center">
+              <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark&fontFamily=&preferLogin=false">
+                  <img  alt="govUA's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/govUA?cardType=level&theme=vue-dark&fontFamily=&preferLogin=false" />
+              </a>
+            </p>
         </div>
     </div>
     <div>
