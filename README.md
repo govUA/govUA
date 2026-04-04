@@ -28,7 +28,7 @@
 &nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ikotliar)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grenze+Gotisch&weight=800&pause=1000&color=EEBB44&center=true&random=true&width=435&lines=Visionary;Frontend+developer;Indie+game+developer;The+comment+guy;GSG+nerd;Ukrainian+underground;67;Student+government;Foreign+affairs;Professional+doomscroll" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Grenze+Gotisch&weight=800&pause=1000&color=EEBB44&center=true&random=true&width=435&lines=Visionary;Frontend+developer;Indie+game+developer;The+comment+guy;GSG+nerd;Ukrainian+underground;67;Student+government;Foreign+affairs;Professional+doomscrolling;Project+manager;Vibe+coding;Rage+baiting;Software+engineering;Debate+enthusiast" alt="Typing SVG" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003863&height=100&section=footer" width="100%"/>
 
